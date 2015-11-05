@@ -7,6 +7,6 @@ L'objectif étant de créer un ensemble de plugins et un thème afin de répondr
 
 ## Structure
 ### Dossier plugins
-Contient l'ensemble des plugins Wordpress développés. Un sous dossier par plugin
+Contient l'ensemble des plugins Wordpress développés. Un sous dossier par plugin.
 ### Dossier theme
 Contient l'ensemble du thème Wordpress.
